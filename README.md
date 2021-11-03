@@ -1,2 +1,2 @@
 # ssb_hw01
-Simple Layout
+https://tamimsamawat.github.io/ssb_hw01/
